@@ -96,7 +96,7 @@ metadata:
     - "只要这篇笔记近 30 天的评论 → node src/xiaohongshu/comment-cli.js --url 'https://www.xiaohongshu.com/explore/xxx' --expired_at 30 --limit 20"
 ---
 
-# 📕 小红薯评论数据 · 功能列表 (XHS Comment Data)
+# 📕 小红薯评论数据｜关键词搜索 · 评论内容 · 评论回复 · 互动数据（无需登录 / 不封号） (XHS Comment Data)
 
 小红薯评论数据只读：笔记评论内容与评论回复、评论点赞与时间、关键词搜笔记、笔记详情、博主作品与粉丝获赞收藏；输出结构化 JSON，为评论区数据整理提供所需公开数据。适用于评论整理、选题、竞品与舆情分析。
 
